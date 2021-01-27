@@ -1,2 +1,2 @@
-#Resume
-##Juan Sebastian Reyes
+# Resume
+## Juan Sebastian Reyes

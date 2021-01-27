@@ -1,93 +1,80 @@
-Juan Sebastian Reyes
-============
+**Juan Sebastian Reyes**
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+Bogota, Colomba • +1 954-651-7461 • jusreyes@ucsc.edu
 
-Education
----------
+**QUALIFICATIONS PROFILE**
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** role.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- **Software Solutions:** Hands-on experience developing and integrating tactical software applications to optimize the functionality of business operations while meeting objectives.
+- **Relationship Development:** Multilingual professional fluent in English, Spanish, and German, with a background fostering robust relationships and interfacing with clients and engineers across the globe.
+- **Technically Proficient:** Talent for quickly learning new information, procedures, and technologies, with the ability to convey complex technologies to a variety of skill levels.
+- **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Core Technologies:
 
-    *Minor: Awesomeology*
+| Tools: | Java, C, Python, SQL, Stata, Octave, Bash |
+| --- | --- |
+| Applications: | Unix, Microsoft Office Suite (Excel) |
 
-Experience
-----------
+**EDUCATIONAL BACKGROUND**
 
-**Your Most Recent Work Experience:**
+**Bachelor of Science in Computer Science – 2021**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Bachelor of Arts in Economics -2021**
 
-* First item
+University of California, Santa Cruz, California
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Club Member | Society of Hispanic Professional Engineers**
 
-**That Other Job You Had**
+**EXPERIENCE HIGHLIGHTS**
 
-Also with a short description.
+University of California, Santa Cruz, California
 
-Technical Experience
---------------------
+**Student, Computer Science and Economics** 2017 – Present
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+_Technologies: Java, Python, C, SQL, Octave, STATA_
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+WiZenz Technologies, Bogota, Colombia
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**Software Developer (Internship),** 2018 – 2018
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+_Technologies: Java_
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Partnered with a team of programmers to produce innovative software applications while receiving guidance on modern software practices. Performed comprehensive research on algorithms that could potentially be integrated and discover strategies for implementation into hardware.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Facilitated in the development of a cargo truck temperature tracking application; supplied insights on algorithms that could identify and prevent instances of truck drivers becoming drowsy.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+University of California, Santa Cruz, California
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+**Economics Department Peer Advisor**
 
-* Human Languages:
+- As a peer advisor for the Economics Department, I answered any questions about the Economics undergraduate program, helped students form and arrange their class schedules and check their .graduate requirements
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- Worked on a newsletter group project for the Economics department
 
-* Random tidbit
+**RELEVANT COURSES**
 
-* Other sort of impressive-sounding thing you did
+Machine Learning
+
+**Standford University - Online,** Summer 2020
+
+-Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
+
+- Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
+
+Python 3 Programming
+
+**University of Michigan - Online,** Summer 2020
+
+- Learned all the fundamentals of python programming. Learned about Functions, Files, Dictionaries, Data Collection, Classes, and Inheritance.
+
+- Capstone project where I used API&#39;s and three different libraries (pillow, tesseract, opencv) to manipulate images for character text recognition and face identification.
+
+Algorithmic Toolbox
+
+**University of California San Diego - Online,** Summer 2020
+
+- Reviewed and coded different algorithms to practice learned techniques such as Divide and Conquer, Recursion, Sorting and Dynamic Programming

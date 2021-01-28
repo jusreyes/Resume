@@ -1,4 +1,4 @@
-**Juan Sebastian Reyes**
+## Juan Sebastian Reyes
 
 Bogota, Colomba • +1 954-651-7461 • jusreyes@ucsc.edu
 

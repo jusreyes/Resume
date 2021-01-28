@@ -12,11 +12,11 @@ Passionate and innovative with related education, practicum, and experience to e
 - **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
 **Core Technologies:**
---------------------------------------------------------
+---
 | Tools: | Java, C, Python, SQL, Stata, Octave, Bash |
 | --- | --- |
 | Applications: | Unix, Microsoft Office Suite (Excel) |
---------------------------------------------------------
+---
 **EDUCATIONAL BACKGROUND**
 
 **Bachelor of Science in Computer Science – 2021**

@@ -11,11 +11,11 @@ Passionate and innovative with related education, practicum, and experience to e
 >- **Technically Proficient:** Talent for quickly learning new information, procedures, and technologies, with the ability to convey complex technologies to a variety of skill >levels.
 >- **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
-Core Technologies:
+**Core Technologies:**
 
-| Tools: | Java, C, Python, SQL, Stata, Octave, Bash |
-| --- | --- |
-| Applications: | Unix, Microsoft Office Suite (Excel) |
+> | Tools: | Java, C, Python, SQL, Stata, Octave, Bash |
+> | --- | --- |
+> | Applications: | Unix, Microsoft Office Suite (Excel) |
 
 **EDUCATIONAL BACKGROUND**
 

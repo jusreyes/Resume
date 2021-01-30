@@ -2,7 +2,7 @@ Juan Sebastian Reyes
 ============
 
 Bogota, Colomba • +1 954-651-7461 • jusreyes@ucsc.edu
--------------------     ----------------------------
+-----
 
 QUALIFICATIONS PROFILE
 ---------
@@ -49,7 +49,7 @@ RELEVANT COURSES
 --------------------
 
 **Machine Learning**
-_Standford University - Online Summer 2020
+Standford University - Online Summer 2020
 
 :     
 
@@ -58,7 +58,7 @@ _Standford University - Online Summer 2020
     * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
     
 **Python 3 Programming**
-_University of Michigan - Online Summer 2020
+University of Michigan - Online Summer 2020
 
 :  
 
@@ -68,7 +68,7 @@ _University of Michigan - Online Summer 2020
     character text recognition and face identification.
     
 **Algorithmic Toolbox**
-_University of California San Diego - Online Summer 2020
+University of California San Diego - Online Summer 2020
 
 :  
 

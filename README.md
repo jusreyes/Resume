@@ -1,7 +1,7 @@
 Juan Sebastian Reyes
 ============
 
-Bogota, Colomba • +1 954-651-7461 • jusreyes@ucsc.edu
+Bogota, Colombia • +1 954-651-7461 • jusreyes@ucsc.edu
 -----
 
 QUALIFICATIONS PROFILE
@@ -49,11 +49,11 @@ RELEVANT COURSES
 --------------------
 
 **Machine Learning**
-Standford University - Online Summer 2020
+Stanford University - Online Summer 2020
 
 :     
 
-    * Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
+    * Learned and applied most relevant Machine learning concepts such as Supervised, Unsupervised Learning, and Statistical Pattern recognition
 
     * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
     

@@ -29,13 +29,13 @@ EXPERIENCE
 
 **Student of Computer Science and Economics:** 2017 - present
 
-_Technologies: Java, Python, C, SQL, Octave, STATA_
+_Technologies: Java, Python, C, SQL, Octave GNU, STATA_
 
 * Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
 **UCSC Economics Department Peer Advisor** - Fall 2020
 
-* As a peer advisor for the Economics Department, I answered any questions about the Economics undergraduate program, helped students form and arrange their class schedules and check their graduate requirements.
+* As a peer advisor for the UCSC Economics Department, I answered any questions about the economics undergraduate program, helped students organize and arrange their class schedules while checking their graduate requirements.
 * Worked on a newsletter group project that was published by the UCSC Economics Department.
 
 **Software Developer (Internship)** - Summer 2018
@@ -53,9 +53,9 @@ Stanford University - Online Summer 2020
 
 :     
 
-    * Learned and applied most relevant Machine learning concepts such as Supervised, Unsupervised Learning, and Statistical Pattern recognition
+    * Learned and applied most relevant machine learning concepts such as supervised, unsupervised learning, and statistical pattern recognition
 
-    * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
+    * Used Octave GNU to code algorithms such as support vector machines, neural networks, and recommender systems
     
 **Python 3 Programming**
 University of Michigan - Online Summer 2020
@@ -72,4 +72,4 @@ University of California San Diego - Online Summer 2020
 
 :  
 
-    * Reviewed and coded different algorithms to practice learned techniques such as Divide and Conquer, Recursion, Sorting and Dynamic Programming
+    * Reviewed and coded different algorithms to practice learned techniques such as divide and conquer, recursion, sorting and dynamic programming

@@ -18,32 +18,34 @@ EDUCATIONAL BACKGROUND
 
 2017-2021
 :   **BSc, Computer Science and Engineering**- University of California Santa Cruz
-      Santa Cruz, California
     
  2017-2021
 :   **B.A, Economics**- University of California Santa Cruz
-      Santa Cruz, California
+
 
 EXPERIENCE
 ----------
 
+Univesity of California Santa Cruz<br/>
 **Student of Computer Science and Economics:** 2017 - present
 
 _Technologies: Java, Python, C, SQL, Octave GNU, STATA_
 
 * Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
+University of California Santa Cruz<br/>
 **UCSC Economics Department Peer Advisor** - Fall 2020
 
 * As a peer advisor for the UCSC Economics Department, I answered any questions about the economics undergraduate program, helped students organize and arrange their class schedules while checking their graduate requirements.
 * Worked on a newsletter group project that was published by the UCSC Economics Department.
 
+Wizenz Technologies - Bogota, Colombia<br/>
 **Software Developer (Internship)** - Summer 2018
 _Technologies: Java
 
-Partnered with a team of programmers to produce innovative software applications while receiving guidance on modern software practices. Performed comprehensive research on algorithms that could potentially be integrated and discover strategies for implementation into hardware.
+* Partnered with a team of programmers to produce innovative software applications while receiving guidance on modern software practices. Performed comprehensive research on algorithms that could potentially be integrated and discover strategies for implementation into hardware.
 
-*Facilitated in the development of a cargo truck temperature tracking application; supplied insights on algorithms that could identify and prevent instances of truck drivers becoming drowsy.
+* Facilitated in the development of a cargo truck temperature tracking application; supplied insights on algorithms that could identify and prevent instances of truck drivers becoming drowsy.
 
 RELEVANT COURSES
 --------------------

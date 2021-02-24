@@ -6,7 +6,7 @@ Bogota, Colombia • +1 954-651-7461 • jusreyes@ucsc.edu
 
 QUALIFICATIONS PROFILE
 ---------
-Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** role.
+Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** or **Economist** role.
 
 - **Software Solutions:** Hands-on experience developing and integrating tactical software applications to optimize the functionality of business operations while meeting  objectives.
 - **Relationship Development:** Multilingual professional fluent in English, Spanish, and German, with a background fostering robust relationships and interfacing with  clients and engineers across the globe.

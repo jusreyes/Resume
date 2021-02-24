@@ -29,7 +29,7 @@ EXPERIENCE
 Univesity of California Santa Cruz<br/>
 **Student of Computer Science and Economics:** 2017 - present
 
-_Technologies: Java, Python, C, SQL, Octave GNU, STATA_
+_Technologies: Java, Python, C, SQL, Octave GNU, STATA, Excel_
 
 * Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
